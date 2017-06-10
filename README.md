@@ -1,3 +1,3 @@
-# Simple client server implementation of BlackJack game
+# Simple client server implementation of blackjack
 
-A simple client server implementation of BlackJack game with Haskell
+A simple client server implementation of blackjack game with Haskell
